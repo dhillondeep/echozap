@@ -25,7 +25,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/brpaz/echozap"
+	"github.com/dhillondeep/echozap"
 	"github.com/labstack/echo/v4"
 	"go.uber.org/zap"
 )
